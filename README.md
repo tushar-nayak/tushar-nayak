@@ -3,7 +3,7 @@
 I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-driven research.
 
 ### 🛠 Tech Stack & Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,opencv,git,,anaconda,bash,c,cpp,debian,docker,html,powershell,pr,sklearn,ubuntu,vscode,windows,aws)
+![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,opencv,git,anaconda,bash,c,cpp,debian,docker,html,powershell,pr,sklearn,ubuntu,vscode,windows,aws)
 
 ### 🔬 Research Interests & Advanced Skills
 
