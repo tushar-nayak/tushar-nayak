@@ -37,5 +37,6 @@ I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-dri
 ![Internet of Things](https://img.shields.io/badge/Internet%20of%20Things%20(IoT)-4CAF50?style=for-the-badge)
 
 ### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-technologyfoundhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologyfoundhere@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-technologyfoundhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologyfoundhere@gmail.com)
+[![Outlook](https://img.shields.io/badge/Email-tusharnayak@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tusharnayak@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaktushar/)
