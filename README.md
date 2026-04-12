@@ -36,6 +36,10 @@ I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-dri
 ![Open-Source Software Development](https://img.shields.io/badge/Open--Source%20Development-4CAF50?style=for-the-badge)
 ![Internet of Things](https://img.shields.io/badge/Internet%20of%20Things%20(IoT)-4CAF50?style=for-the-badge)
 
+### Graduate Courses that excited me
+[Computer Vision](https://sites.google.com/andrew.cmu.edu/16-720spring2025)
+[Learning for 3D Vision](https://learning3d.github.io)
+
 ### 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/Email-technologyfoundhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologyfoundhere@gmail.com)
 [![Outlook](https://img.shields.io/badge/Email-tusharnayak@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tusharnayak@outlook.com)
