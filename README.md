@@ -10,7 +10,7 @@ I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-dri
 **Deep Learning** <br>
 ![Neural ODEs](https://img.shields.io/badge/Neural%20ODEs-5E35B1?style=for-the-badge)
 ![Attention & Transformers](https://img.shields.io/badge/Attention%20%26%20Transformers-5E35B1?style=for-the-badge)
-![PINNs](https://img.shields.io/badge/Physics--Informed%20NNs-5E35B1?style=for-the-badge)
+![PINNs](https://img.shields.io/badge/Physics--Informed%20Neural--Networks-5E35B1?style=for-the-badge)
 ![GNNs](https://img.shields.io/badge/Graph%20Neural%20Networks-5E35B1?style=for-the-badge)
 ![RNN LSTM VAE](https://img.shields.io/badge/RNN%20|%20LSTM%20|%20VAE-5E35B1?style=for-the-badge)
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI%20(XAI)-5E35B1?style=for-the-badge)
