@@ -1,4 +1,4 @@
-# Hi, I'm Tushar Nayak! 👋
+# Hi, I'm Tushar! 👋
 
 I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-driven research.
 
