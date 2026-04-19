@@ -20,35 +20,6 @@ Learning-based prediction of guidewire-induced vascular deformation from 2D fluo
 
 ### Glioblastoma Spatiotemporal Evolution Modeling
 Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
-
----
-
-## Featured Projects
-
-| Project | Domain | Repository |
-|---|---|---|
-| Neurovascular Deformation Estimation | Surgical AI / Registration | [View Code](https://github.com/tushar-nayak) |
-| Neural Anisotropic Diffusion for Brain MRI | Medical Imaging | [View Code](https://github.com/tushar-nayak/neural-anisotropic-diffusion) |
-| Glioblastoma Evolution Prediction | Medical AI | [View Code](https://github.com/tushar-nayak) |
-| Mammography Dual-View Registration | Computer Vision | [View Code](https://github.com/tushar-nayak) |
-| Sparse Echo to 3D Cardiac Reconstruction | 3D Vision | [View Code](https://github.com/tushar-nayak) |
-| Coronary Artery Volume-to-Mesh Segmentation | 3D Medical AI | [View Code](https://github.com/tushar-nayak/) |
-
----
-
-## Publications & Academic Output
-
-Published journal and conference work in:
-
-- Medical image computing  
-- Histopathology AI  
-- Neurovascular robotics  
-- Explainable AI  
-- Disease detection systems  
-- Deep learning for healthcare  
-
-📄 Full publication list available on my CV / LinkedIn.
-
 ---
 
 ## Technical Expertise
@@ -74,16 +45,14 @@ Teaching Assistant for:
 - Applied Deep Learning  
 - Computer Vision for Engineers  
 - Fundamentals of Computational Biomedical Engineering  
-- Machine Learning Applications in Experimental BME Research  
-
-I enjoy helping students bridge theory with practical implementation.
+- Machine Learning Applications in Experimental BME Research
 
 ---
 
 ## Awards
 
 - Department Head’s Fellowship — Carnegie Mellon University  
-- Best Paper Award — ICAICEC 2023
+- Best Paper Award — AICECS 2023
 
 ---
 
