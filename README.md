@@ -22,9 +22,6 @@ Learning-based prediction of guidewire-induced vascular deformation from fluoros
 ### Glioblastoma Spatiotemporal Evolution Modeling
 Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
 
-### Synthetic Medical Imaging for Robust AI
-Generating simulated fluoroscopy and temporally evolving datasets for data-efficient training.
-
 ---
 
 ## Featured Projects
