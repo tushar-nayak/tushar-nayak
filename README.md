@@ -1,23 +1,22 @@
 # Hi, I'm Tushar Nayak 👋
 
 Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
-
-- Medical Imaging AI  
 - Computer Vision  
-- 3D Vision & Geometry  
+- 3D Vision & Geometry
+- Medical Imaging  
 - Surgical Robotics  
 - Physics-Informed Learning  
 
-My current focus is on **deformation-aware registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
+My current focus is on **3D deformation estimation from 2D angiography for registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
 
-I’m especially interested in translating cutting-edge machine learning into real-world clinical and robotic systems.
+I’m especially interested in translating cutting-edge physics-driven machine learning into real-world clinical and robotic systems.
 
 ---
 
 ## Current Research @ Carnegie Mellon University
 
 ### Neurovascular Deformation Estimation for Intervention Guidance
-Learning-based prediction of guidewire-induced vascular deformation from fluoroscopic observations, registered back to pre-operative 3D anatomy.
+Learning-based prediction of guidewire-induced vascular deformation from 2D fluoroscopic observations, registered back to pre-operative 3D anatomy.
 
 ### Glioblastoma Spatiotemporal Evolution Modeling
 Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
