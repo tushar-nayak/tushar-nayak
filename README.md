@@ -113,5 +113,3 @@ I enjoy helping students bridge theory with practical implementation.
 
 ![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-nayak&layout=compact&theme=rose_pine&hide_border=false)
