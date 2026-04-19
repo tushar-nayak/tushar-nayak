@@ -48,4 +48,3 @@ I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-dri
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
