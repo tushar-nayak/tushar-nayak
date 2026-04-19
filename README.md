@@ -1,50 +1,117 @@
-# Hi, I'm Tushar! 👋
+# Hi, I'm Tushar Nayak 👋
 
-I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-driven research.
+Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 
-### 🛠 Tech Stack & Frameworks
-![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,opencv,git,anaconda,bash,c,cpp,debian,docker,html,powershell,pr,sklearn,ubuntu,vscode,windows,aws)
+- Medical Imaging AI  
+- Computer Vision  
+- 3D Vision & Geometry  
+- Surgical Robotics  
+- Physics-Informed Learning  
 
-### 🔬 Research Interests & Advanced Skills
+My current focus is on **deformation-aware registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
 
-**Deep Learning** <br>
-![Neural ODEs](https://img.shields.io/badge/Neural%20ODEs-5E35B1?style=for-the-badge)
-![Attention & Transformers](https://img.shields.io/badge/Attention%20%26%20Transformers-5E35B1?style=for-the-badge)
-![PINNs](https://img.shields.io/badge/Physics--Informed%20Neural--Networks-5E35B1?style=for-the-badge)
-![GNNs](https://img.shields.io/badge/Graph%20Neural%20Networks-5E35B1?style=for-the-badge)
-![RNN LSTM VAE](https://img.shields.io/badge/RNN%20|%20LSTM%20|%20VAE-5E35B1?style=for-the-badge)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI%20(XAI)-5E35B1?style=for-the-badge)
+I’m especially interested in translating cutting-edge machine learning into real-world clinical and robotic systems.
 
-**Computer Vision** <br>
-![Feature Extraction](https://img.shields.io/badge/Feature%20Representation%20%26%20Extraction-0288D1?style=for-the-badge)
-![Geometric CV & Camera Models](https://img.shields.io/badge/Geometric%20CV%20%26%20Camera%20Models-0288D1?style=for-the-badge)
-![Object Detection & Segmentation](https://img.shields.io/badge/Object%20Detection%20%26%20Segmentation-0288D1?style=for-the-badge)
-![Texture & Morphology](https://img.shields.io/badge/Texture%20%26%20Morphological%20Analysis-0288D1?style=for-the-badge)
-![Color Processing](https://img.shields.io/badge/Color%20Processing-0288D1?style=for-the-badge)
-![Motion Analysis & Optical Flow](https://img.shields.io/badge/Motion%20Analysis%20%26%20Optical%20Flow-0288D1?style=for-the-badge)
+---
 
-**3D Vision & Representation** <br>
-![Photometric Stereovision](https://img.shields.io/badge/Photometric%20Stereovision-FF6D00?style=for-the-badge)
-![Differentiable Neural Rendering](https://img.shields.io/badge/Differentiable%20Neural%20Rendering-FF6D00?style=for-the-badge)
-![Surface & Volume Manipulation](https://img.shields.io/badge/Surface%20%26%20Volume%20Manipulation-FF6D00?style=for-the-badge)
-![Deformable Registration](https://img.shields.io/badge/Deformable%20Registration-FF6D00?style=for-the-badge)
-![2D to 3D Reconstruction](https://img.shields.io/badge/2D%20to%203D%20Reconstruction-FF6D00?style=for-the-badge)
-![Shape Abstraction](https://img.shields.io/badge/Shape%20Abstraction-FF6D00?style=for-the-badge)
-![Neural 3D Representation](https://img.shields.io/badge/Neural%203D%20Representation-FF6D00?style=for-the-badge)
+## Current Research @ Carnegie Mellon University
 
-**Core Engineering** <br>
-![Open-Source Software Development](https://img.shields.io/badge/Open--Source%20Development-4CAF50?style=for-the-badge)
-![Internet of Things](https://img.shields.io/badge/Internet%20of%20Things%20(IoT)-4CAF50?style=for-the-badge)
+### Neurovascular Deformation Estimation for Intervention Guidance
+Learning-based prediction of guidewire-induced vascular deformation from fluoroscopic observations, registered back to pre-operative 3D anatomy.
 
-### Graduate Courses that excited me
-[Computer Vision](https://sites.google.com/andrew.cmu.edu/16-720spring2025)
-[Learning for 3D Vision](https://learning3d.github.io)
+### Glioblastoma Spatiotemporal Evolution Modeling
+Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
 
-### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/Email-technologyfoundhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologyfoundhere@gmail.com)
-[![Outlook](https://img.shields.io/badge/Email-tusharnayak@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tusharnayak@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaktushar/)
+### Synthetic Medical Imaging for Robust AI
+Generating simulated fluoroscopy and temporally evolving datasets for data-efficient training.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)<br/>
+---
+
+## Featured Projects
+
+| Project | Domain | Repository |
+|---|---|---|
+| Neurovascular Deformation Estimation | Surgical AI / Registration | [View Code](https://github.com/tushar-nayak) |
+| Neural Anisotropic Diffusion for Brain MRI | Medical Imaging | [View Code](https://github.com/tushar-nayak/neural-anisotropic-diffusion) |
+| Glioblastoma Evolution Prediction | Medical AI | [View Code](https://github.com/tushar-nayak) |
+| Mammography Dual-View Registration | Computer Vision | [View Code](https://github.com/tushar-nayak) |
+| Sparse Echo to 3D Cardiac Reconstruction | 3D Vision | [View Code](https://github.com/tushar-nayak) |
+| Coronary Artery Volume-to-Mesh Segmentation | 3D Medical AI | [View Code](https://github.com/tushar-nayak/) |
+
+---
+
+## Publications & Academic Output
+
+Published journal and conference work in:
+
+- Medical image computing  
+- Histopathology AI  
+- Neurovascular robotics  
+- Explainable AI  
+- Disease detection systems  
+- Deep learning for healthcare  
+
+📄 Full publication list available on my CV / LinkedIn.
+
+---
+
+## Technical Expertise
+
+### Machine Learning
+PyTorch • TensorFlow • Neural ODEs • Transformers • PINNs • GNNs • CNNs • Representation Learning
+
+### Computer Vision
+Segmentation • Detection • Registration • Optical Flow • Camera Geometry • Feature Learning
+
+### 3D Vision
+Reconstruction • Point Clouds • Mesh Processing • Neural Rendering • Deformation Modeling
+
+### Engineering
+Python • C/C++ • Docker • Linux • Git • AWS • Research Pipelines
+
+---
+
+## Teaching & Mentorship @ CMU
+
+Teaching Assistant for:
+
+- Applied Deep Learning  
+- Computer Vision for Engineers  
+- Fundamentals of Computational Biomedical Engineering  
+- Machine Learning Applications in Experimental BME Research  
+
+I enjoy helping students bridge theory with practical implementation.
+
+---
+
+## Awards
+
+- Department Head’s Fellowship — Carnegie Mellon University  
+- Best Paper Award — ICAICEC 2023
+
+---
+
+## Open To
+
+- PhD Opportunities  
+- Research Collaborations  
+- AI / Vision / Robotics Research Internships  
+- Technically ambitious applied ML roles  
+
+---
+
+## Connect
+
+🌐 Website: https://tushar-nayak.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/nayaktushar/  
+📧 Email: tusharn@andrew.cmu.edu  
+📧 Outlook: tusharnayak@outlook.com  
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-nayak&layout=compact&theme=rose_pine&hide_border=false)
