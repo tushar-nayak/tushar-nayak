@@ -44,3 +44,8 @@ I'm a **Graduate Student & Researcher at CMU** passionate about advancing AI-dri
 [![Gmail](https://img.shields.io/badge/Email-technologyfoundhere@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technologyfoundhere@gmail.com)
 [![Outlook](https://img.shields.io/badge/Email-tusharnayak@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tusharnayak@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayaktushar/)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
