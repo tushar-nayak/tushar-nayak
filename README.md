@@ -23,7 +23,7 @@ Learning-based prediction of guidewire-induced vascular deformation from 2D fluo
 
 ### Glioblastoma Spatiotemporal Evolution Modeling
 Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
----
+
 
 ## Technical Expertise
 
