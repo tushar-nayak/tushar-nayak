@@ -3,9 +3,12 @@
 Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 - Computer Vision  
 - 3D Vision & Geometry
-- Medical Imaging  
+- Medical Image Analysis
+- Physics-Informed Learning
+- Visual Learning   
 - Surgical Robotics  
-- Physics-Informed Learning  
+- Graph Neural Networks
+- Transformer Models
 
 My current focus is on **3D deformation estimation from 2D angiography for registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
 
