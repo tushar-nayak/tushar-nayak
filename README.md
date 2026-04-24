@@ -1,4 +1,4 @@
-# Hi, I'm Tushar Nayak 👋
+# Hi, I'm Tushar! 👋
 
 Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 - Computer Vision  
