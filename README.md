@@ -1,6 +1,6 @@
 # Hi, I'm Tushar! 👋
 
-Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
+Scientist at **the University of Chicago**, previously a Graduate Researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 - Computer Vision  
 - 3D Vision & Geometry
 - Medical Image Analysis
