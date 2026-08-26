@@ -1,6 +1,6 @@
 # Hi, I'm Tushar! 👋
 
-Scientist at **the University of Chicago**, previously a graduate student researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
+Scientist at the [Surgical Biomechanics Lab](https://surgbiomech.uchicago.edu/) **the University of Chicago**, previously a graduate student researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 - Computer Vision  
 - 3D Vision & Geometry
 - Medical Image Analysis
