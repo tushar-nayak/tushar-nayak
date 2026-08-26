@@ -2,7 +2,7 @@
 
 I'm a Scientist at the [SurgBiomech Lab](https://surgbiomech.uchicago.edu/)
 at the **University of Chicago** and a collaborator with the
-[Surreality Lab](https://surreality.pitt.edu/).
+[Surreality Lab](https://surreality.pitt.edu/) at the **University of Pittsburgh**.
 
 My research sits at the intersection of **3D computer vision, geometric deep
 learning, medical image analysis, and physics-informed machine learning**,
