@@ -1,84 +1,90 @@
 # Hi, I'm Tushar! 👋
 
-I'm a scientist at the [SurgBiomech Lab](https://surgbiomech.uchicago.edu/) **the University of Chicago** and collaborator with the [Surreality Lab](https://surreality.pitt.edu/), previously a graduate student researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
-- Computer Vision  
-- 3D Vision
-- Vision Geometry
-- Spatiotemporal Modelling
-- Medical Image Analysis
-- Physics-Informed Learning
-- Visual Learning of 2D and 3D scenes
-- Graph Neural Networks
-- Transformer Models
+I'm a Scientist at the [SurgBiomech Lab](https://surgbiomech.uchicago.edu/)
+at the **University of Chicago** and a collaborator with the
+[Surreality Lab](https://surreality.pitt.edu/).
 
-My research during my masters was centered around **3D deformation estimation from 2D angiography for registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
+My research sits at the intersection of **3D computer vision, geometric deep
+learning, medical image analysis, and physics-informed machine learning**,
+with an emphasis on **surgical perception and image-guided intervention**.
 
-I’m especially interested in translating cutting-edge geometry and physics-driven machine learning into real-world clinical and robotic systems.
+My master's research at **Carnegie Mellon University** focused on recovering
+**3D vascular deformation from monocular fluoroscopy**, combining geometric
+learning, preoperative anatomy, and physics-inspired priors for registration,
+reconstruction, and real-time surgical perception.
+
+I'm particularly interested in methods that connect **geometry, physical
+structure, and visual learning** and can ultimately be deployed in clinical
+and robotic systems.
 
 ---
 
-## Current Research @ Carnegie Mellon University
+## Current Research
 
-### Neurovascular Deformation Estimation for Intervention Guidance
-Learning-based prediction of guidewire-induced vascular deformation from 2D fluoroscopic observations, registered back to pre-operative 3D anatomy.
+### Patient-Specific Vascular Modeling & Biomechanics
+Computational and learning-based analysis of vascular morphology, deformation,
+growth, and patient-specific biomechanics from clinical imaging.
 
-### Glioblastoma Spatiotemporal Evolution Modeling
-Neural ODE and multimodal MRI-based modeling of longitudinal tumor progression.
+### 3D Vascular Deformation from Fluoroscopy
+Learning-based estimation of intraoperative vascular deformation from 2D
+fluoroscopy and preoperative 3D anatomy for image-guided neurovascular
+intervention.
 
+### Spatiotemporal Disease Modeling
+Longitudinal modeling of anatomical and pathological evolution using
+multimodal imaging, neural differential equations, and geometric representations.
 
-## Technical Expertise
+---
+
+## Research Interests
+
+- 3D Computer Vision & Geometric Learning
+- Surgical Vision & Image-Guided Robotics
+- 2D–3D Registration and Reconstruction
+- Deformable Shape Modeling
+- Medical Image Computing
+- Physics-Informed Machine Learning
+- Spatiotemporal Modeling
+- Neural Rendering & Differentiable Geometry
+
+## Technical Toolkit
 
 ### Machine Learning
-PyTorch • TensorFlow • Neural ODEs • Transformers • PINNs • GNNs • CNNs • Representation Learning
+PyTorch • GNNs • Transformers • Neural ODEs • CNNs • Physics-Informed Learning
 
-### Computer Vision
-Segmentation • Detection • Registration • Optical Flow • Camera Geometry • Feature Learning
+### Geometry & 3D Vision
+Multi-view Geometry • 2D–3D Registration • Reconstruction • Point Clouds •
+Meshes • Deformation Modeling • Neural Rendering
 
-### 3D Vision
-Reconstruction • Point Clouds • Mesh Processing • Neural Rendering • Deformation Modeling
+### Medical Imaging
+CT/CTA • MRI • Fluoroscopy • Segmentation • Registration • Longitudinal Analysis
 
 ### Engineering
-Python • C/C++ • Docker • Linux • Git • AWS • Research Pipelines
+Python • C/C++ • CUDA • Linux • Docker • Git • AWS
 
 ---
 
-## Teaching & Mentorship @ CMU
+## Teaching @ Carnegie Mellon University
 
 Teaching Assistant for:
 
-- Applied Deep Learning  
-- Computer Vision for Engineers  
-- Fundamentals of Computational Biomedical Engineering  
+- Applied Deep Learning
+- Computer Vision for Engineers
+- Fundamentals of Computational Biomedical Engineering
 - Machine Learning Applications in Experimental BME Research
 
 ---
 
 ## Awards
 
-- Department Head’s Fellowship — Carnegie Mellon University  
+- Department Head's Fellowship — Carnegie Mellon University
 - Best Paper Award — AICECS 2023
-
----
-
-## Open To
-
-- PhD Opportunities  
-- Research Collaborations  
-- AI / Vision / Robotics Research Internships  
-- Technically ambitious applied ML roles  
 
 ---
 
 ## Connect
 
-🌐 Website: https://tushar-nayak.github.io/  
-💼 LinkedIn: https://www.linkedin.com/in/nayaktushar/  
-📧 Email: tusharn@andrew.cmu.edu  
-📧 Outlook: tusharnayak@outlook.com  
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tushar-nayak&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=tushar-nayak&theme=rose_pine&hide_border=false)
+🌐 [Website](https://tushar-nayak.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/nayaktushar/)  
+📧 tusharn @andrew.cmu.edu & @uchicago.edu
+📧 tusharnayak@outlook.com
