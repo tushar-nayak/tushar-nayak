@@ -1,18 +1,19 @@
 # Hi, I'm Tushar! 👋
 
-Scientist at the [Surgical Biomechanics Lab](https://surgbiomech.uchicago.edu/) **the University of Chicago**, previously a graduate student researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
+I'm a scientist at the [SurgBiomech Lab](https://surgbiomech.uchicago.edu/) **the University of Chicago** and collaborator with the [Surreality Lab](https://surreality.pitt.edu/), previously a graduate student researcher at **Carnegie Mellon University** building intelligent systems at the intersection of:
 - Computer Vision  
-- 3D Vision & Geometry
+- 3D Vision
+- Vision Geometry
+- Spatiotemporal Modelling
 - Medical Image Analysis
 - Physics-Informed Learning
-- Visual Learning   
-- Surgical Robotics  
+- Visual Learning of 2D and 3D scenes
 - Graph Neural Networks
 - Transformer Models
 
-My current focus is on **3D deformation estimation from 2D angiography for registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
+My research during my masters was centered around **3D deformation estimation from 2D angiography for registration, reconstruction, and perception for image-guided neurovascular intervention systems**.
 
-I’m especially interested in translating cutting-edge physics-driven machine learning into real-world clinical and robotic systems.
+I’m especially interested in translating cutting-edge geometry and physics-driven machine learning into real-world clinical and robotic systems.
 
 ---
 
